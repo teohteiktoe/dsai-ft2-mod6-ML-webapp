@@ -1,0 +1,193 @@
+ISO3,Name,Predicted_2019_Sensitivity,Method,Observations
+AFG,Afghanistan,0.5303802595938529,ar1_trend,24
+ALB,Albania,0.30113776376798407,ar1_trend,24
+DZA,Algeria,0.3208185778467333,ar1_trend,24
+AND,Andorra,,last_value,0
+AGO,Angola,0.2714428290694722,ar1_trend,24
+ATG,Antigua and Barbuda,0.33841011311698843,ar1_trend,24
+ARG,Argentina,0.30406182943854154,ar1_trend,24
+ARM,Armenia,0.3564871613562308,ar1_trend,24
+AUS,Australia,0.1867558314380699,ar1_trend,24
+AUT,Austria,0.2944930836395128,ar1_trend,24
+AZE,Azerbaijan,0.3495283903320849,ar1_trend,24
+BHS,Bahamas,0.33773517630945527,ar1_trend,24
+BHR,Bahrain,0.49415684805515747,ar1_trend,24
+BGD,Bangladesh,0.4476480815241466,ar1_trend,24
+BRB,Barbados,0.3675818452748886,ar1_trend,24
+BLR,Belarus,0.33012875670134867,ar1_trend,24
+BEL,Belgium,0.41790561997503023,ar1_trend,24
+BLZ,Belize,0.41990494841543824,ar1_trend,24
+BEN,Benin,0.5800459907665642,ar1_trend,24
+BTN,Bhutan,0.3207698752137493,ar1_trend,24
+BOL,"Bolivia, Plurinational State of",0.3146907490513484,ar1_trend,24
+BIH,Bosnia and Herzegovina,0.2605983904775541,ar1_trend,24
+BWA,Botswana,0.412182921360568,ar1_trend,24
+BRA,Brazil,0.2672125414459415,ar1_trend,24
+BRN,Brunei Darussalam,0.2016428974732603,ar1_trend,24
+BGR,Bulgaria,0.2996284785456084,ar1_trend,24
+BFA,Burkina Faso,0.4163497669637302,ar1_trend,24
+BDI,Burundi,0.5082590845352236,ar1_trend,24
+KHM,Cambodia,0.43621996547730013,ar1_trend,24
+CMR,Cameroon,0.34427206819254874,ar1_trend,24
+CAN,Canada,0.21059072817129657,ar1_trend,24
+CPV,Cape Verde,0.3425182761281498,ar1_trend,24
+CAF,Central African Republic,0.5367464157197446,ar1_trend,24
+TCD,Chad,0.5583852902148725,ar1_trend,24
+CHL,Chile,0.2503298049629428,ar1_trend,24
+CHN,China,0.32081887230499784,ar1_trend,24
+COL,Colombia,0.20837158636741357,ar1_trend,24
+COM,Comoros,0.4053635613402194,ar1_trend,24
+COG,Congo,0.35922549210971166,ar1_trend,24
+COD,"Congo, the Democratic Republic o",0.45046947216585903,ar1_trend,24
+CRI,Costa Rica,0.25444701963705246,ar1_trend,24
+CIV,Cote d'Ivoire,0.3740013370664078,ar1_trend,24
+HRV,Croatia,0.3263882321473261,ar1_trend,24
+CUB,Cuba,0.29103549881533564,ar1_trend,24
+CYP,Cyprus,0.34383389277094045,ar1_trend,24
+CZE,Czech Republic,0.3004074811492805,ar1_trend,24
+DNK,Denmark,0.3295798593310398,ar1_trend,24
+DJI,Djibouti,0.3985126982284151,ar1_trend,24
+DMA,Dominica,0.24560094093570062,ar1_trend,24
+DOM,Dominican Republic,0.31637603477325266,ar1_trend,24
+ECU,Ecuador,0.28724583475276894,ar1_trend,24
+EGY,Egypt,0.5102068759920757,ar1_trend,24
+SLV,El Salvador,0.3274345939063946,ar1_trend,24
+GNQ,Equatorial Guinea,0.2718017219313254,ar1_trend,24
+ERI,Eritrea,0.5151865983094803,ar1_trend,24
+EST,Estonia,0.25697728329150427,ar1_trend,24
+ETH,Ethiopia,0.4454849635684191,ar1_trend,24
+FJI,Fiji,0.29672115184981496,ar1_trend,24
+FIN,Finland,0.23700989071759715,ar1_trend,24
+FRA,France,0.2780360188723058,ar1_trend,24
+GAB,Gabon,0.23811212276635546,ar1_trend,24
+GMB,Gambia,0.5246275770460281,ar1_trend,24
+GEO,Georgia,0.3143429525136984,ar1_trend,24
+DEU,Germany,0.31363324957452043,ar1_trend,24
+GHA,Ghana,0.4025231024748651,ar1_trend,24
+GRC,Greece,0.32938715401512453,ar1_trend,24
+GRD,Grenada,0.23012357911243572,ar1_trend,24
+GTM,Guatemala,0.35315500761116175,ar1_trend,24
+GIN,Guinea,0.37741819103305185,ar1_trend,24
+GNB,Guinea-Bissau,0.6185619018170037,ar1_trend,24
+GUY,Guyana,0.39124125297002377,ar1_trend,24
+HTI,Haiti,0.4416809952277525,ar1_trend,24
+HND,Honduras,0.3843406363134626,ar1_trend,24
+HUN,Hungary,0.3790838753898297,ar1_trend,24
+ISL,Iceland,0.2621911442330501,ar1_trend,24
+IND,India,0.3627902893866495,ar1_trend,24
+IDN,Indonesia,0.2776690484880108,ar1_trend,24
+IRN,"Iran, Islamic Republic of",0.36242990647823337,ar1_trend,24
+IRQ,Iraq,0.415046577434619,ar1_trend,24
+IRL,Ireland,0.30349564192247164,ar1_trend,24
+ISR,Israel,0.4369381983133296,ar1_trend,24
+ITA,Italy,0.3486369593486135,ar1_trend,24
+JAM,Jamaica,0.3367925979058255,ar1_trend,24
+JPN,Japan,0.3828214768298724,ar1_trend,24
+JOR,Jordan,0.4159065749091666,ar1_trend,24
+KAZ,Kazakhstan,0.3354290233894369,ar1_trend,24
+KEN,Kenya,0.44557567487229166,ar1_trend,24
+KIR,Kiribati,,last_value,0
+PRK,"Korea, Democratic People's Repub",,last_value,0
+KOR,"Korea, Republic of",0.3091832545674391,ar1_trend,24
+KWT,Kuwait,0.46638548698619486,ar1_trend,24
+KGZ,Kyrgyzstan,0.3710597026099862,ar1_trend,24
+LAO,Lao People's Democratic Republic,0.4136892901915987,ar1_trend,24
+LVA,Latvia,0.3644299043587448,ar1_trend,24
+LBN,Lebanon,0.387013712980137,ar1_trend,24
+LSO,Lesotho,0.38992205276943603,ar1_trend,24
+LBR,Liberia,0.5242597414740893,ar1_trend,24
+LBY,Libyan Arab Jamahiriya,0.37291603790250455,ar1_trend,24
+LIE,Liechtenstein,,last_value,0
+LTU,Lithuania,0.3333780966834283,ar1_trend,24
+LUX,Luxembourg,0.34727172046259147,ar1_trend,24
+MKD,Macedonia,,last_value,0
+MDG,Madagascar,0.4614809482992609,ar1_trend,24
+MWI,Malawi,0.42954930273094444,ar1_trend,24
+MYS,Malaysia,0.2632097491895399,ar1_trend,24
+MDV,Maldives,0.3128934176338076,ar1_trend,24
+MLI,Mali,0.44513219452971065,ar1_trend,24
+MLT,Malta,0.3589706861951909,ar1_trend,24
+MHL,Marshall Islands,,last_value,0
+MRT,Mauritania,0.5349479856393362,ar1_trend,24
+MUS,Mauritius,0.34818216724567186,ar1_trend,24
+MEX,Mexico,0.2526216980084099,ar1_trend,24
+FSM,"Micronesia, Federated States of",,last_value,0
+MDA,"Moldova, Republic of",0.3931921516616533,ar1_trend,24
+MCO,Monaco,,last_value,0
+MNG,Mongolia,0.2684522722056354,ar1_trend,24
+MNE,Montenegro,0.39452071125327975,ar1_trend,24
+MAR,Morocco,0.31348732627282944,ar1_trend,24
+MOZ,Mozambique,0.4786072151266937,ar1_trend,24
+MMR,Myanmar,0.41852093218919423,ar1_trend,24
+NAM,Namibia,0.3813507211083849,ar1_trend,24
+NRU,Nauru,,last_value,0
+NPL,Nepal,0.4285914829232668,ar1_trend,24
+NLD,Netherlands,0.41889627076613584,ar1_trend,24
+NZL,New Zealand,0.2706975592919371,ar1_trend,24
+NIC,Nicaragua,0.32834222663300683,ar1_trend,24
+NER,Niger,0.5506327364645345,ar1_trend,24
+NGA,Nigeria,0.34520483861269874,ar1_trend,24
+NOR,Norway,0.18621434518798322,ar1_trend,24
+OMN,Oman,0.30491337970402294,ar1_trend,24
+PAK,Pakistan,0.4799051468678049,ar1_trend,24
+PLW,Palau,,last_value,0
+PAN,Panama,0.27813749675741195,ar1_trend,24
+PNG,Papua New Guinea,0.359279699754458,ar1_trend,24
+PRY,Paraguay,0.31300548145055296,ar1_trend,24
+PER,Peru,0.264154648853861,ar1_trend,24
+PHL,Philippines,0.34732140778000403,ar1_trend,24
+POL,Poland,0.276676077483508,ar1_trend,24
+PRT,Portugal,0.32960909136375305,ar1_trend,24
+QAT,Qatar,0.39208103582952913,ar1_trend,24
+ROU,Romania,0.33464635211140065,ar1_trend,24
+RUS,Russian Federation,0.22725226836079282,ar1_trend,24
+RWA,Rwanda,0.496946015372534,ar1_trend,24
+KNA,Saint Kitts and Nevis,0.3053986249394651,ar1_trend,24
+LCA,Saint Lucia,0.2438416857403602,ar1_trend,24
+VCT,Saint Vincent and the Grenadines,0.260856700368043,ar1_trend,24
+WSM,Samoa,0.4060610013336584,ar1_trend,24
+SMR,San Marino,,last_value,0
+STP,Sao Tome and Principe,0.49675881848590847,ar1_trend,24
+SAU,Saudi Arabia,0.3155615893865719,ar1_trend,24
+SEN,Senegal,0.4526653283334657,ar1_trend,24
+SRB,Serbia,0.2981679900853329,ar1_trend,24
+SYC,Seychelles,0.3679114345546326,ar1_trend,24
+SLE,Sierra Leone,0.41256943403897944,ar1_trend,24
+SGP,Singapore,0.33817725952540556,ar1_trend,24
+SVK,Slovakia,0.3500189656254258,ar1_trend,24
+SVN,Slovenia,0.3347807876489997,ar1_trend,24
+SLB,Solomon Islands,0.4253913473922182,ar1_trend,24
+SOM,Somalia,0.4864847325881302,ar1_trend,24
+ZAF,South Africa,0.29600121601726226,ar1_trend,24
+ESP,Spain,0.30790612200960193,ar1_trend,24
+LKA,Sri Lanka,0.3254705967309296,ar1_trend,24
+SDN,Sudan,0.5690159024141821,ar1_trend,24
+SUR,Suriname,0.29829040721403705,ar1_trend,24
+SWZ,Swaziland,0.42143581098226496,ar1_trend,24
+SWE,Sweden,0.23727745206480677,ar1_trend,24
+CHE,Switzerland,0.2605634591823268,ar1_trend,24
+SYR,Syrian Arab Republic,0.4377740618487914,ar1_trend,24
+TJK,Tajikistan,0.42236246822182283,ar1_trend,24
+TZA,"Tanzania, United Republic of",0.4186305936790226,ar1_trend,24
+THA,Thailand,0.37109149117215406,ar1_trend,24
+TLS,Timor-Leste,0.39387667102005774,ar1_trend,24
+TGO,Togo,0.4190627118269558,ar1_trend,24
+TON,Tonga,0.4962596326885961,ar1_trend,24
+TTO,Trinidad and Tobago,0.23964382087134944,ar1_trend,24
+TUN,Tunisia,0.37541906977610895,ar1_trend,24
+TUR,Turkey,0.2734595224405386,ar1_trend,24
+TKM,Turkmenistan,0.45520846529510317,ar1_trend,24
+TUV,Tuvalu,,last_value,0
+UGA,Uganda,0.5161976254842904,ar1_trend,24
+UKR,Ukraine,0.33597368822673723,ar1_trend,24
+ARE,United Arab Emirates,0.3451087838688308,ar1_trend,24
+GBR,United Kingdom,0.27123183612269036,ar1_trend,24
+USA,United States,0.2908789511342915,ar1_trend,24
+URY,Uruguay,0.27936567334001283,ar1_trend,24
+UZB,Uzbekistan,0.521324830670825,ar1_trend,24
+VUT,Vanuatu,0.45753913675136426,ar1_trend,24
+VEN,"Venezuela, Bolivarian Republic o",0.2618431031667995,ar1_trend,24
+VNM,Viet Nam,0.41154140266697375,ar1_trend,24
+YEM,Yemen,0.44037391641329404,ar1_trend,24
+ZMB,Zambia,0.45774161293175875,ar1_trend,24
+ZWE,Zimbabwe,0.5165541457697121,ar1_trend,24
